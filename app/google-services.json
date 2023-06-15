@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439205800521",
+    "project_id": "tutorial-insta-39633",
+    "storage_bucket": "tutorial-insta-39633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439205800521:android:a04c148fc177488f82ed98",
+        "android_client_info": {
+          "package_name": "com.example.tutorialinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439205800521-23knf20epv74kbrj17kjojou3tlsdag7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHk6d2U793dFpiuteag9TMPHIAl4Z1PyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439205800521-23knf20epv74kbrj17kjojou3tlsdag7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
